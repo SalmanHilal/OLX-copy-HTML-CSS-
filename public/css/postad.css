@@ -1,0 +1,35 @@
+*{
+	margin:0 auto;
+	font-family:"Arial", sans-serif;
+}
+a{
+	text-decoration:none;
+}
+.a{
+	color:#2a65be;
+}
+.a:hover{
+	color:#ff7700;
+}
+.fcolor{
+	color:#4d4d4d;
+}
+.container{
+	height:692px;
+	width:882px;
+	border: 1px solid darkmagenta
+}
+.heading{
+	border-radius: 5px 5px 0px 0px;
+	height:24px;
+	width:868px;
+	border:1px solid #d9d9d9;
+	font-size: 20px;
+	padding: 5px 1px 8px 10px;
+}
+.titlecat{
+	height:55px;
+	width:879px;
+	border:1px solid #d9d9d9;
+	border-top: none;
+}

@@ -1,0 +1,48 @@
+*{
+margin:0 auto;
+font-family:"Arial", sans-serif;
+}
+a{
+	text-decoration:none;
+}
+.header1{
+	height:92px;
+	width:882px;
+	 
+}
+.tdmyaccount{
+	width:360px;
+}
+.tdsubmitad{
+	width:166px;
+}
+.span1{
+	cursor:text;
+}
+.myaccount{
+	font-size: 17px;
+	font-weight:bold;
+	line-height:1px;
+	color:#2965be;
+}
+.myaccount:hover{
+	color:#ff7700;
+}
+.submitadlink{
+	border:none;
+    line-height: 15px;
+    padding: 12px 21px;
+    border-radius: 3px;
+    background: #ff7700;
+    color: #fff;
+    font-weight: bold;
+}
+.submitadlink:hover{
+	opacity:0.5;
+}
+.submitadlink span{
+	font-size: 17px;
+}
+.newtd{
+	padding: 0px 164px;
+}
